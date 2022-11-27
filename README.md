@@ -9,7 +9,9 @@
 - Descend: **2px**
 - Encoding: **Unicode**
 - Bases and Inspirations:
-    - 5x09 **[tamzen-9](https://github.com/sunaku/tamzen-font#tamzen-9)**
+    - 4x6 **[tom-thumb](https://robey.lag.net/2010/01/23/tiny-monospace-font.html)**
+    - 5x8 **[spleen](https://github.com/fcambus/spleen)**
+    - 5x9 **[tamzen-9](https://github.com/sunaku/tamzen-font#tamzen-9)**
     - 5x12 **[creep](https://github.com/romeovs/creep)**
     - 5x12 **[creep2](https://github.com/raymond-w-ko/creep2)**
     - 5x12 **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**
@@ -36,7 +38,7 @@
         At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
         ```
     </details>
-    
+
 - Latin Glyphs with Diacritics (adjusted, originally from **[creep](https://github.com/romeovs/creep)** and **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
     ```
     Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.
@@ -135,8 +137,8 @@
 
 ## Previously Used Fonts
 
-- **[Onuava](https://www.dafont.com/onuava.font)** 5x12 @7px without Clear Type
-- **[Sudo](https://www.kutilek.de/sudo-font/)** 5x12 @8px with Clear Type
+- 5x12 **[Onuava](https://www.dafont.com/onuava.font)** @7px (without Clear Type)
+- 5x12 **[Sudo](https://www.kutilek.de/sudo-font/)** @8px (with Clear Type)
 
 ---
 
