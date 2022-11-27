@@ -1,4 +1,4 @@
-# Monospaced bitmap Unicode fonts for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
+# Monospaced bitmap Unicode font for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
 
 - Bounding Box: **5x11**
 - Uppercase Height: **7px**
