@@ -1,4 +1,4 @@
-# Monospaced bitmap Unicode font for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
+# Monospaced bitmap font with Unicode support for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
 
 - Bounding Box: **5x11**
 - Uppercase Height: **7px**
@@ -21,9 +21,13 @@
 
 ---
 
+
+
+---
+
 ## Features
 
-- Basic Latin Glyphs (adjusted **[creep](https://github.com/romeovs/creep)**)
+- [x] Basic Latin Glyphs (adjusted **[creep](https://github.com/romeovs/creep)**)
     ```
     ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
     abcdefghijklmnopqrstuvwxyz ,. \|/ [`1234567890-=]
