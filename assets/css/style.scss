@@ -5,16 +5,17 @@
 
 @font-face {
     font-family: 'HFSM Mono';
-    src: url('https://github.com/andrew-gresyk/HFSM-fonts/raw/main/HFSM%20Mono.ttf') format('truetype');
+    src: url('../../HFSM Mono.ttf') format('truetype');
 }
 
-a { 
+code { 
     font-family: 'HFSM Mono';
-    font-size: 8px;
+    font-size: 22px;
 }
+
 pre { 
     font-family: 'HFSM Mono';
-    font-size: 8px;
+    font-size: 11px;
 }
 
 a:link, a:visited {
