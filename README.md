@@ -1,3 +1,7 @@
+**Note: Access this page via [GitHub Pages link](https://font.hfsm.dev) to see text examples rendered correctly.**
+
+---
+
 # Monospaced bitmap font with Unicode support for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
 
 - Bounding Box: **5x11**
@@ -21,21 +25,17 @@
 
 ---
 
-
-
----
-
 ## Features
 
-- [x] Basic Latin Glyphs (adjusted **[creep](https://github.com/romeovs/creep)**)
-    ```
-    ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
-    abcdefghijklmnopqrstuvwxyz ,. \|/ [`1234567890-=]
-    ```
-    - Redrawn `aecrzGZ` and some others
-    - Adjusted braces and arithmetic operators after staring at code for hours
+### [x] Basic Latin Glyphs
 
-- Latin Glyphs with Diacritics (adjusted **[creep](https://github.com/romeovs/creep)** and **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
+```
+ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
+abcdefghijklmnopqrstuvwxyz ,. \|/ [`1234567890-=]
+```
+
+### [x] Latin Glyphs with Diacritics (adjusted **[creep](https://github.com/romeovs/creep)** and **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
+
     ```
     Příliš žluťoučký kůň úpěl ďábelské ódy.
     Høj bly gom vandt fræk sexquiz på wc.
@@ -46,34 +46,34 @@
     ```
     - reduced height of capital letters (e.g. `ŘÍIŠŽŤČÝŮŇÚĚĎÁÉÓ`)
 
-- Cyrillic Glyphs (hand-drawn)
+- [x] Cyrillic Glyphs (hand-drawn)
     ```
     АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
     абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
     ```
 
-- Greek Glyphs (**[creep](https://github.com/romeovs/creep)**)
+- [x] Greek Glyphs (**[creep](https://github.com/romeovs/creep)**)
     ```
     αβγδεζηθικλμνξοπρσςτυφχψω
     ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
     ```
 
-- Sub- and Super-Script (hand-drawn)
+- [x] Sub- and Super-Script (hand-drawn)
     ```
     ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª
     ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ
     ```
 
-- Fraction Glyphs (hand-drawn)
+- [x] Fraction Glyphs (hand-drawn)
     ```
     ⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
     ```
 
-- Arrows, math symbols, dingbats, etc. (hand-drawn + **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
+- [x] Arrows, math symbols, dingbats, etc. (hand-drawn + **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
 
-- **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**)
+- [x] **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**)
 
-- **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
+- [x] **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
 
 ---
 
