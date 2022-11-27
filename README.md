@@ -1,8 +1,10 @@
-**Note: Access this page via [GitHub Pages link](https://font.hfsm.dev) to see text examples rendered correctly.**
+**Access the page via [GitHub Pages link](https://font.hfsm.dev) to see correctly rendered text.**
 
 ---
 
 # Monospaced bitmap font with Unicode support for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
+
+## Specs
 
 - Bounding Box: **5x11**
 - Uppercase Height: **7px**
