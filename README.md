@@ -27,76 +27,64 @@
 
 ## Features
 
-### [x] Basic Latin Glyphs
-
+### Basic Latin
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
-abcdefghijklmnopqrstuvwxyz ,. \|/ [`1234567890-=]
+abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
 ```
 
-### [x] Latin Glyphs with Diacritics (adjusted **[creep](https://github.com/romeovs/creep)** and **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
+### Latin with Diacritics
+```
+Příliš žluťoučký kůň úpěl ďábelské ódy.
+Høj bly gom vandt fræk sexquiz på wc.
+Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.
+Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.
+Stróż pchnął kość w quiz gędźb vel fax myjń.
+Pijamalı hasta yağız şoföre çabucak güvendi.
+```
 
-    ```
-    Příliš žluťoučký kůň úpěl ďábelské ódy.
-    Høj bly gom vandt fræk sexquiz på wc.
-    Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.
-    Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.
-    Stróż pchnął kość w quiz gędźb vel fax myjń.
-    Pijamalı hasta yağız şoföre çabucak güvendi.
-    ```
-    - reduced height of capital letters (e.g. `ŘÍIŠŽŤČÝŮŇÚĚĎÁÉÓ`)
+### Cyrillic
+```
+АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
+абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
+```
 
-- [x] Cyrillic Glyphs (hand-drawn)
-    ```
-    АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
-    абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
-    ```
+### Greek
+```
+αβγδεζηθικλμνξοπρσςτυφχψω
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
+```
 
-- [x] Greek Glyphs (**[creep](https://github.com/romeovs/creep)**)
-    ```
-    αβγδεζηθικλμνξοπρσςτυφχψω
-    ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
-    ```
+## Super- and Sub-Script
+```
+ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª
+ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ
+```
 
-- [x] Sub- and Super-Script (hand-drawn)
-    ```
-    ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª
-    ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ
-    ```
+### Fractions
+```
+⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
+```
 
-- [x] Fraction Glyphs (hand-drawn)
-    ```
-    ⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
-    ```
+### Arrows, math symbols, dingbats, etc.
 
-- [x] Arrows, math symbols, dingbats, etc. (hand-drawn + **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**)
+### **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**)
+```
+┌ TopLevelState
+└ TopLevelRegion
+    ╟ OrthogonalRegion
+    ║ ╟ OrthogonalState1
+    ║ ╙ OrthogonalState2
+    ╟─┬ PeerState1
+    ║ └ PeerState2
+    ╟ CompositeRegion
+    ║ ├ CompositeState1
+    ║ └ CompositeState2
+    ╙─╥ OrthogonalPeerState1
+      ╙ OrthogonalPeerState2
+```
 
-- [x] **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**)
-
-- [x] **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
-
----
-
-## Motivation
-
-1. [**Box drawing**](https://github.com/romeovs/creep#box-drawing) for the [**FSM debug draw**](https://gresyk.dev/features/2018/01/15/hfsm-magic.html):
-    ```
-    ┌ TopLevelState
-    └ TopLevelRegion
-      ╟ OrthogonalRegion
-      ║ ╟ OrthogonalState1
-      ║ ╙ OrthogonalState2
-      ╟─┬ PeerState1
-      ║ └ PeerState2
-      ╟ CompositeRegion
-      ║ ├ CompositeState1
-      ║ └ CompositeState2
-      ╙─╥ OrthogonalPeerState1
-        ╙ OrthogonalPeerState2
-    ```
-1. Crisp and clean font for programming
-1. Cyrillics support
-1. Arrows, math symbols, dingbats, etc.
+### **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
 
 ---
 
