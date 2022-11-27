@@ -12,10 +12,10 @@
     - 4x6 **[tom-thumb](https://robey.lag.net/2010/01/23/tiny-monospace-font.html)**
     - 5x8 **[spleen](https://github.com/fcambus/spleen)**
     - 5x9 **[tamzen-9](https://github.com/sunaku/tamzen-font#tamzen-9)**
-    - 5x12 **[creep](https://github.com/romeovs/creep)**
-    - 5x12 **[creep2](https://github.com/raymond-w-ko/creep2)**
-    - 5x12 **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**
-    - 5x12 **[scientifica](https://github.com/nerdypepper/scientifica)**
+    - 5x11 **[creep](https://github.com/romeovs/creep)**
+    - 5x11 **[creep2](https://github.com/raymond-w-ko/creep2)**
+    - 5x11 **[Mochi](https://addy-dclxvi.github.io/post/bitmap-fonts/#mochi)**
+    - 5x11 **[scientifica](https://github.com/nerdypepper/scientifica)**
 - Software:
     - **[Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas)** ❤
 
