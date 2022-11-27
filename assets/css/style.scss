@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'HFSM Mono';
+    src: url('../../HFSM-fonts/HFSM Mono.ttf') format('truetype'),
+            url('../HFSM-fonts/HFSM Mono.ttf') format('truetype'),
+               url('HFSM-fonts/HFSM Mono.ttf') format('truetype');
+}
+
+a { 
+    font-family: 'HFSM Mono';
+}
+
+a:link, a:visited {
+    color: #0057b7;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover, a:active {
+    background-color: #ffd700;
+    color: #0057b7;
+    font-weight: bold;
+    text-decoration: none;
+}
