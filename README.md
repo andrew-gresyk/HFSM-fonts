@@ -92,7 +92,7 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 
 ## Vector Alternative
 
-- 5x11 **[Sudo](https://www.kutilek.de/sudo-font/)** @8px (with Clear Type)
+- 5x11 **[Sudo](https://www.kutilek.de/sudo-font/)** @8px
 
 ---
 
@@ -107,9 +107,3 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 
 - Twitter: **[@andrew_gresyk](https://www.twitter.com/andrew_gresyk)**
 - Discord: **[HFSM.dev](https://discord.gg/v4t3tzh)**
-
----
-
-## Special Thanks
-
-- **[Lorem Ipsum](https://www.lipsum.com/)**
