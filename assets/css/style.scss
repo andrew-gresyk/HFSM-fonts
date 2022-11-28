@@ -8,15 +8,13 @@
     src: url('../../HFSM Mono.ttf') format('truetype');
 }
 
-pre { 
-    font-family: 'HFSM Mono';
-    font-size: 22px;
-    line-height: 24px;
-}
-
 code { 
     font-family: 'HFSM Mono';
     font-size: 22px;
+}
+
+pre { 
+    line-height: 24px;
 }
 
 a:link, a:visited {

@@ -17,6 +17,7 @@
 - Bases and Inspirations:
     - 4x6 **[tom-thumb](https://robey.lag.net/2010/01/23/tiny-monospace-font.html)**
     - 5x8 **[spleen](https://github.com/fcambus/spleen)**
+    - 5x9 **[tamsyn5x9](http://www.fial.com/~scott/tamsyn-font/)**
     - 5x9 **[tamzen-9](https://github.com/sunaku/tamzen-font#tamzen-9)**
     - 5x11 **[creep](https://github.com/romeovs/creep)**
     - 5x11 **[creep2](https://github.com/raymond-w-ko/creep2)**
