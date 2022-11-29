@@ -31,6 +31,9 @@
 ## Features
 
 ### Basic Latin
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sub><br>
+<sub>abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]</sub>
+
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
 abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
