@@ -27,19 +27,23 @@
     - **[Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas)** ❤
 
 ---
-
 ## Features
 
 ### Basic Latin
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sub><br>
-<sub>abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]</sub>
-
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sup><br>
+<sub>abcdefghijklmnopqrstuvwxyz ,. \\|/ [ 1234567890-=]</sub>
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
 abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
 ```
 
 ### Latin with Diacritics
+<sup>Příliš žluťoučký kůň úpěl ďábelské ódy.</sup><br>
+<sup>Høj bly gom vandt fræk sexquiz på wc.</sup><br>
+<sup>Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</sup><br>
+<sup>Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.</sup><br>
+<sup>Stróż pchnął kość w quiz gędźb vel fax myjń.</sup><br>
+<sup>Pijamalı hasta yağız şoföre çabucak güvendi.</sup>
 ```
 Příliš žluťoučký kůň úpěl ďábelské ódy.
 Høj bly gom vandt fræk sexquiz på wc.
@@ -50,24 +54,31 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 ```
 
 ### Cyrillic
+<sup>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}</sup><br>
+<sup>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]</sup>
 ```
 АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
 абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
 ```
 
 ### Greek
+<sup>αβγδεζηθικλμνξοπρσςτυφχψω</sup><br>
+<sup>ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ</sup>
 ```
 αβγδεζηθικλμνξοπρσςτυφχψω
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
 ```
 
 ## Super- and Sub-Script
+<sup>ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª</sup><br>
+<sup>ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ</sup>
 ```
 ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª
 ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ
 ```
 
 ### Fractions
+<sup>⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sup>
 ```
 ⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
 ```
@@ -93,20 +104,22 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 ### **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
 
 ---
+## Tests
 
+- **[diacritics](tests/diacritics.md)**
+
+---
 ## Vector Alternative
 
 - 5x11 **[Sudo](https://www.kutilek.de/sudo-font/)** @8px
 
 ---
-
 ## See Also
 
 - **[HFSM2](https://hfsm.dev)**: High-Performance **Hierarchical** Finite State Machine
 - **[FFSM2](https://flat.hfsm.dev)**: High-Performance **Flat** Finite State Machine
 
 ---
-
 ## Get In Touch
 
 - Twitter: **[@andrew_gresyk](https://www.twitter.com/andrew_gresyk)**

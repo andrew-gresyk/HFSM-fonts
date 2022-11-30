@@ -10,14 +10,19 @@
 
 code { 
     font-family: 'HFSM Mono';
-    font-size: 22px;
-    line-height: 24px;
+    font-size: 11px;
+    line-height: 12px;
 }
 
-sub { 
+sup { 
     font-family: 'HFSM Mono';
     font-size: 22px;
     line-height: 24px;
+}
+sub { 
+    font-family: 'HFSM Mono';
+    font-size: 11px;
+    line-height: 12px;
 }
 
 a:link, a:visited {
