@@ -71,18 +71,30 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 
 ### Super- and Sub-Script:
 <sub>ⁱₑⁿₔ ⁽₍⁰₀¹₁⁻₋²₂³₃⁴₄⁺₊⁵₅⁶₆⁼₌⁷₇⁸₈⁹₉⁾₎</sub><br>
+<br>
 <sub>Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª</sub><br>
-<sub>X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª</sub><br>
 <sub>Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ</sub><br>
-<sub>X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎ Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ</sub><br>
-<sub>The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻</sub>
+<br>
+<sub>X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾</sub><br>
+<sub>Xⁱ Xⁿ Xº Xª</sub><br>
+<br>
+<sub>X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎</sub><br>
+<sub>Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ</sub><br>
+<br>
+<sub>Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻</sub>
 ```
 ⁱₑⁿₔ ⁽₍⁰₀¹₁⁻₋²₂³₃⁴₄⁺₊⁵₅⁶₆⁼₌⁷₇⁸₈⁹₉⁾₎
+
 Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª
 Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ
-X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª
-X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎ Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ	
-The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻
+
+X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾
+Xⁱ Xⁿ Xº Xª
+
+X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎
+Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ	
+
+Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻
 ```
 
 ### Fractions:
