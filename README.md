@@ -29,7 +29,7 @@
 ---
 ## Features
 
-### Basic Latin
+### Basic Latin:
 <sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sub><br>
 <sub>abcdefghijklmnopqrstuvwxyz ,. \\|/ [ 1234567890-=]</sub>
 ```
@@ -37,7 +37,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
 abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
 ```
 
-### Latin with Diacritics
+### Latin with Diacritics:
 <sub>Příliš žluťoučký kůň úpěl ďábelské ódy.</sub><br>
 <sub>Høj bly gom vandt fræk sexquiz på wc.</sub><br>
 <sub>Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</sub><br>
@@ -53,7 +53,7 @@ Stróż pchnął kość w quiz gędźb vel fax myjń.
 Pijamalı hasta yağız şoföre çabucak güvendi.
 ```
 
-### Cyrillic
+### Cyrillic:
 <sub>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}</sub><br>
 <sub>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]</sub>
 ```
@@ -61,7 +61,7 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
 ```
 
-### Greek
+### Greek:
 <sub>αβγδεζηθικλμνξοπρσςτυφχψω</sub><br>
 <sub>ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ</sub>
 ```
@@ -69,17 +69,23 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
 ```
 
-## Super- and Sub-Script
+### Super- and Sub-Script:
+<sub>ⁱₑⁿₔ ⁽₍⁰₀¹₁⁻₋²₂³₃⁴₄⁺₊⁵₅⁶₆⁼₌⁷₇⁸₈⁹₉⁾₎</sub><br>
 <sub>Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª</sub><br>
+<sub>X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª</sub><br>
 <sub>Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ</sub><br>
+<sub>X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎ Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ</sub><br>
 <sub>The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻</sub>
 ```
+ⁱₑⁿₔ ⁽₍⁰₀¹₁⁻₋²₂³₃⁴₄⁺₊⁵₅⁶₆⁼₌⁷₇⁸₈⁹₉⁾₎
 Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª
 Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ
+X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª
+X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎ Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ	
 The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻
 ```
 
-### Fractions
+### Fractions:
 <sub>⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sub>
 ```
 ⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
@@ -87,7 +93,7 @@ The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻
 
 ### Arrows, math symbols, dingbats, etc.
 
-### **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**)
+### **[Box Drawing and Block Elements](https://github.com/romeovs/creep#box-drawing)** (from **[creep](https://github.com/romeovs/creep)**):
 ```
 ┌ TopLevelState
 └ TopLevelRegion
