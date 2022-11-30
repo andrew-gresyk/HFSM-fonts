@@ -30,7 +30,7 @@
 ## Features
 
 ### Basic Latin
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sup><br>
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sub><br>
 <sub>abcdefghijklmnopqrstuvwxyz ,. \\|/ [ 1234567890-=]</sub>
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
@@ -38,12 +38,12 @@ abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
 ```
 
 ### Latin with Diacritics
-<sup>Příliš žluťoučký kůň úpěl ďábelské ódy.</sup><br>
-<sup>Høj bly gom vandt fræk sexquiz på wc.</sup><br>
-<sup>Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</sup><br>
-<sup>Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.</sup><br>
-<sup>Stróż pchnął kość w quiz gędźb vel fax myjń.</sup><br>
-<sup>Pijamalı hasta yağız şoföre çabucak güvendi.</sup>
+<sub>Příliš žluťoučký kůň úpěl ďábelské ódy.</sub><br>
+<sub>Høj bly gom vandt fræk sexquiz på wc.</sub><br>
+<sub>Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</sub><br>
+<sub>Glāžšķūņa rūķīši dzērumā čiepj Baha koncertflīģeļu vākus.</sub><br>
+<sub>Stróż pchnął kość w quiz gędźb vel fax myjń.</sub><br>
+<sub>Pijamalı hasta yağız şoföre çabucak güvendi.</sub>
 ```
 Příliš žluťoučký kůň úpěl ďábelské ódy.
 Høj bly gom vandt fræk sexquiz på wc.
@@ -54,31 +54,33 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 ```
 
 ### Cyrillic
-<sup>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}</sup><br>
-<sup>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]</sup>
+<sub>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}</sub><br>
+<sub>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]</sub>
 ```
 АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
 абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
 ```
 
 ### Greek
-<sup>αβγδεζηθικλμνξοπρσςτυφχψω</sup><br>
-<sup>ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ</sup>
+<sub>αβγδεζηθικλμνξοπρσςτυφχψω</sub><br>
+<sub>ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ</sub>
 ```
 αβγδεζηθικλμνξοπρσςτυφχψω
 ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ ΤΥΦΧΨΩ
 ```
 
 ## Super- and Sub-Script
-<sup>ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª</sup><br>
-<sup>ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ</sup>
+<sub>Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª</sub><br>
+<sub>Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ</sub><br>
+<sub>The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻</sub>
 ```
-ⁱⁿ ⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ ºª
-ₑₔ ₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ ₐₒₓₕₖₗₘₙₚₛₜ
+Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª
+Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ
+The formula for Hexamminecobalt chloride is: [Co(NH₃)₆]³⁺Cl³⁻
 ```
 
 ### Fractions
-<sup>⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sup>
+<sub>⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sub>
 ```
 ⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
 ```
