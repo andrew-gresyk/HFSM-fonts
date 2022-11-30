@@ -1,597 +1,591 @@
 # [Letters with diacritical marks](http://pinyin.info/unicode/diacritics.html)
 
 ## CAPITAL LETTERS
-```
-0041	A
-00C1	Á
-0102	Ă
-1EAE	Ắ
-1EB6	Ặ
-1EB0	Ằ
-1EB2	Ẳ
-1EB4	Ẵ
-01CD	Ǎ
-00C2	Â
-1EA4	Ấ
-1EAC	Ậ
-1EA6	Ầ
-1EA8	Ẩ
-1EAA	Ẫ
-00C4	Ä
-1EA0	Ạ
-00C0	À
-1EA2	Ả
-0100	Ā
-0104	Ą
-00C5	Å
-01FA	Ǻ
-00C3	Ã
-00C6	Æ
-01FC	Ǽ
-0042	B
-1E04	Ḅ
-0181	Ɓ
-029A	ʚ
-025E	ɞ
-0043	C
-0106	Ć
-010C	Č
-00C7	Ç
-0108	Ĉ
-010A	Ċ
-0186	Ɔ
-0297	ʗ
-0044	D
-010E	Ď
-1E12	Ḓ
-1E0C	Ḍ
-018A	Ɗ
-1E0E	Ḏ
-01F2	ǲ
-01C5	ǅ
-0110	Đ
-00D0	Ð
-01F1	Ǳ
-01C4	Ǆ
-0045	E
-00C9	É
-0114	Ĕ
-011A	Ě
-00CA	Ê
-1EBE	Ế
-1EC6	Ệ
-1EC0	Ề
-1EC2	Ể
-1EC4	Ễ
-00CB	Ë
-0116	Ė
-1EB8	Ẹ
-00C8	È
-1EBA	Ẻ
-0112	Ē
-0118	Ę
-1EBC	Ẽ
-0190	Ɛ
-018F	Ə
-0046	F
-0191	Ƒ
-0047	G
-01F4	Ǵ
-011E	Ğ
-01E6	Ǧ
-0122	Ģ
-011C	Ĝ
-0120	Ġ
-1E20	Ḡ
-029B	ʛ
-0048	H
-1E2A	Ḫ
-0124	Ĥ
-1E24	Ḥ
-0126	Ħ
-0049	I
-00CD	Í
-012C	Ĭ
-01CF	Ǐ
-00CE	Î
-00CF	Ï
-0130	İ
-1ECA	Ị
-00CC	Ì
-1EC8	Ỉ
-012A	Ī
-012E	Į
-0128	Ĩ
-0132	Ĳ
-004A	J
-0134	Ĵ
-004B	K
-0136	Ķ
-1E32	Ḳ
-0198	Ƙ
-1E34	Ḵ
-004C	L
-0139	Ĺ
-023D	Ƚ
-013D	Ľ
-013B	Ļ
-1E3C	Ḽ
-1E36	Ḷ
-1E38	Ḹ
-1E3A	Ḻ
-013F	Ŀ
-01C8	ǈ
-0141	Ł
-01C7	Ǉ
-004D	M
-1E3E	Ḿ
-1E40	Ṁ
-1E42	Ṃ
-004E	N
-0143	Ń
-0147	Ň
-0145	Ņ
-1E4A	Ṋ
-1E44	Ṅ
-1E46	Ṇ
-01F8	Ǹ
-019D	Ɲ
-1E48	Ṉ
-01CB	ǋ
-00D1	Ñ
-01CA	Ǌ
-004F	O
-00D3	Ó
-014E	Ŏ
-01D1	Ǒ
-00D4	Ô
-1ED0	Ố
-1ED8	Ộ
-1ED2	Ồ
-1ED4	Ổ
-1ED6	Ỗ
-00D6	Ö
-1ECC	Ọ
-0150	Ő
-00D2	Ò
-1ECE	Ỏ
-01A0	Ơ
-1EDA	Ớ
-1EE2	Ợ
-1EDC	Ờ
-1EDE	Ở
-1EE0	Ỡ
-014C	Ō
-019F	Ɵ
-01EA	Ǫ
-00D8	Ø
-01FE	Ǿ
-00D5	Õ
-0152	Œ
-0276	ɶ
-0050	P
-00DE	Þ
-0051	Q
-0052	R
-0154	Ŕ
-0158	Ř
-0156	Ŗ
-1E58	Ṙ
-1E5A	Ṛ
-1E5C	Ṝ
-1E5E	Ṟ
-0281	ʁ
-0053	S
-015A	Ś
-0160	Š
-015E	Ş
-015C	Ŝ
-0218	Ș
-1E60	Ṡ
-1E62	Ṣ
-1E9E	ẞ
-0054	T
-0164	Ť
-0162	Ţ
-1E70	Ṱ
-021A	Ț
-1E6C	Ṭ
-1E6E	Ṯ
-0166	Ŧ
-00DE	Þ
-00D0	Ð
-0055	U
-00DA	Ú
-016C	Ŭ
-01D3	Ǔ
-00DB	Û
-00DC	Ü
-01D7	Ǘ
-01D9	Ǚ
-01DB	Ǜ
-01D5	Ǖ
-1EE4	Ụ
-0170	Ű
-00D9	Ù
-1EE6	Ủ
-01AF	Ư
-1EE8	Ứ
-1EF0	Ự
-1EEA	Ừ
-1EEC	Ử
-1EEE	Ữ
-016A	Ū
-0172	Ų
-016E	Ů
-0168	Ũ
-0056	V
-0057	W
-1E82	Ẃ
-0174	Ŵ
-1E84	Ẅ
-1E80	Ẁ
-02AC	ʬ
-0058	X
-0059	Y
-00DD	Ý
-0176	Ŷ
-0178	Ÿ
-1E8E	Ẏ
-1EF4	Ỵ
-1EF2	Ỳ
-01B3	Ƴ
-1EF6	Ỷ
-0232	Ȳ
-1EF8	Ỹ
-005A	Z
-0179	Ź
-017D	Ž
-017B	Ż
-1E92	Ẓ
-1E94	Ẕ
-01B5	Ƶ
-```
+`0041	A` <sub>A</sub><br>
+`00C1	Á` <sub>Á</sub><br>
+`0102	Ă` <sub>Ă</sub><br>
+`1EAE	Ắ` <sub>Ắ</sub><br>
+`1EB6	Ặ` <sub>Ặ</sub><br>
+`1EB0	Ằ` <sub>Ằ</sub><br>
+`1EB2	Ẳ` <sub>Ẳ</sub><br>
+`1EB4	Ẵ` <sub>Ẵ</sub><br>
+`01CD	Ǎ` <sub>Ǎ</sub><br>
+`00C2	Â` <sub>Â</sub><br>
+`1EA4	Ấ` <sub>Ấ</sub><br>
+`1EAC	Ậ` <sub>Ậ</sub><br>
+`1EA6	Ầ` <sub>Ầ</sub><br>
+`1EA8	Ẩ` <sub>Ẩ</sub><br>
+`1EAA	Ẫ` <sub>Ẫ</sub><br>
+`00C4	Ä` <sub>Ä</sub><br>
+`1EA0	Ạ` <sub>Ạ</sub><br>
+`00C0	À` <sub>À</sub><br>
+`1EA2	Ả` <sub>Ả</sub><br>
+`0100	Ā` <sub>Ā</sub><br>
+`0104	Ą` <sub>Ą</sub><br>
+`00C5	Å` <sub>Å</sub><br>
+`01FA	Ǻ` <sub>Ǻ</sub><br>
+`00C3	Ã` <sub>Ã</sub><br>
+`00C6	Æ` <sub>Æ</sub><br>
+`01FC	Ǽ` <sub>Ǽ</sub><br>
+`0042	B` <sub>B</sub><br>
+`1E04	Ḅ` <sub>Ḅ</sub><br>
+`0181	Ɓ` <sub>Ɓ</sub><br>
+`029A	ʚ` <sub>ʚ</sub><br>
+`025E	ɞ` <sub>ɞ</sub><br>
+`0043	C` <sub>C</sub><br>
+`0106	Ć` <sub>Ć</sub><br>
+`010C	Č` <sub>Č</sub><br>
+`00C7	Ç` <sub>Ç</sub><br>
+`0108	Ĉ` <sub>Ĉ</sub><br>
+`010A	Ċ` <sub>Ċ</sub><br>
+`0186	Ɔ` <sub>Ɔ</sub><br>
+`0297	ʗ` <sub>ʗ</sub><br>
+`0044	D` <sub>D</sub><br>
+`010E	Ď` <sub>Ď</sub><br>
+`1E12	Ḓ` <sub>Ḓ</sub><br>
+`1E0C	Ḍ` <sub>Ḍ</sub><br>
+`018A	Ɗ` <sub>Ɗ</sub><br>
+`1E0E	Ḏ` <sub>Ḏ</sub><br>
+`01F2	ǲ` <sub>ǲ</sub><br>
+`01C5	ǅ` <sub>ǅ</sub><br>
+`0110	Đ` <sub>Đ</sub><br>
+`00D0	Ð` <sub>Ð</sub><br>
+`01F1	Ǳ` <sub>Ǳ</sub><br>
+`01C4	Ǆ` <sub>Ǆ</sub><br>
+`0045	E` <sub>E</sub><br>
+`00C9	É` <sub>É</sub><br>
+`0114	Ĕ` <sub>Ĕ</sub><br>
+`011A	Ě` <sub>Ě</sub><br>
+`00CA	Ê` <sub>Ê</sub><br>
+`1EBE	Ế` <sub>Ế</sub><br>
+`1EC6	Ệ` <sub>Ệ</sub><br>
+`1EC0	Ề` <sub>Ề</sub><br>
+`1EC2	Ể` <sub>Ể</sub><br>
+`1EC4	Ễ` <sub>Ễ</sub><br>
+`00CB	Ë` <sub>Ë</sub><br>
+`0116	Ė` <sub>Ė</sub><br>
+`1EB8	Ẹ` <sub>Ẹ</sub><br>
+`00C8	È` <sub>È</sub><br>
+`1EBA	Ẻ` <sub>Ẻ</sub><br>
+`0112	Ē` <sub>Ē</sub><br>
+`0118	Ę` <sub>Ę</sub><br>
+`1EBC	Ẽ` <sub>Ẽ</sub><br>
+`0190	Ɛ` <sub>Ɛ</sub><br>
+`018F	Ə` <sub>Ə</sub><br>
+`0046	F` <sub>F</sub><br>
+`0191	Ƒ` <sub>Ƒ</sub><br>
+`0047	G` <sub>G</sub><br>
+`01F4	Ǵ` <sub>Ǵ</sub><br>
+`011E	Ğ` <sub>Ğ</sub><br>
+`01E6	Ǧ` <sub>Ǧ</sub><br>
+`0122	Ģ` <sub>Ģ</sub><br>
+`011C	Ĝ` <sub>Ĝ</sub><br>
+`0120	Ġ` <sub>Ġ</sub><br>
+`1E20	Ḡ` <sub>Ḡ</sub><br>
+`029B	ʛ` <sub>ʛ</sub><br>
+`0048	H` <sub>H</sub><br>
+`1E2A	Ḫ` <sub>Ḫ</sub><br>
+`0124	Ĥ` <sub>Ĥ</sub><br>
+`1E24	Ḥ` <sub>Ḥ</sub><br>
+`0126	Ħ` <sub>Ħ</sub><br>
+`0049	I` <sub>I</sub><br>
+`00CD	Í` <sub>Í</sub><br>
+`012C	Ĭ` <sub>Ĭ</sub><br>
+`01CF	Ǐ` <sub>Ǐ</sub><br>
+`00CE	Î` <sub>Î</sub><br>
+`00CF	Ï` <sub>Ï</sub><br>
+`0130	İ` <sub>İ</sub><br>
+`1ECA	Ị` <sub>Ị</sub><br>
+`00CC	Ì` <sub>Ì</sub><br>
+`1EC8	Ỉ` <sub>Ỉ</sub><br>
+`012A	Ī` <sub>Ī</sub><br>
+`012E	Į` <sub>Į</sub><br>
+`0128	Ĩ` <sub>Ĩ</sub><br>
+`0132	Ĳ` <sub>Ĳ</sub><br>
+`004A	J` <sub>J</sub><br>
+`0134	Ĵ` <sub>Ĵ</sub><br>
+`004B	K` <sub>K</sub><br>
+`0136	Ķ` <sub>Ķ</sub><br>
+`1E32	Ḳ` <sub>Ḳ</sub><br>
+`0198	Ƙ` <sub>Ƙ</sub><br>
+`1E34	Ḵ` <sub>Ḵ</sub><br>
+`004C	L` <sub>L</sub><br>
+`0139	Ĺ` <sub>Ĺ</sub><br>
+`023D	Ƚ` <sub>Ƚ</sub><br>
+`013D	Ľ` <sub>Ľ</sub><br>
+`013B	Ļ` <sub>Ļ</sub><br>
+`1E3C	Ḽ` <sub>Ḽ</sub><br>
+`1E36	Ḷ` <sub>Ḷ</sub><br>
+`1E38	Ḹ` <sub>Ḹ</sub><br>
+`1E3A	Ḻ` <sub>Ḻ</sub><br>
+`013F	Ŀ` <sub>Ŀ</sub><br>
+`01C8	ǈ` <sub>ǈ</sub><br>
+`0141	Ł` <sub>Ł</sub><br>
+`01C7	Ǉ` <sub>Ǉ</sub><br>
+`004D	M` <sub>M</sub><br>
+`1E3E	Ḿ` <sub>Ḿ</sub><br>
+`1E40	Ṁ` <sub>Ṁ</sub><br>
+`1E42	Ṃ` <sub>Ṃ</sub><br>
+`004E	N` <sub>N</sub><br>
+`0143	Ń` <sub>Ń</sub><br>
+`0147	Ň` <sub>Ň</sub><br>
+`0145	Ņ` <sub>Ņ</sub><br>
+`1E4A	Ṋ` <sub>Ṋ</sub><br>
+`1E44	Ṅ` <sub>Ṅ</sub><br>
+`1E46	Ṇ` <sub>Ṇ</sub><br>
+`01F8	Ǹ` <sub>Ǹ</sub><br>
+`019D	Ɲ` <sub>Ɲ</sub><br>
+`1E48	Ṉ` <sub>Ṉ</sub><br>
+`01CB	ǋ` <sub>ǋ</sub><br>
+`00D1	Ñ` <sub>Ñ</sub><br>
+`01CA	Ǌ` <sub>Ǌ</sub><br>
+`004F	O` <sub>O</sub><br>
+`00D3	Ó` <sub>Ó</sub><br>
+`014E	Ŏ` <sub>Ŏ</sub><br>
+`01D1	Ǒ` <sub>Ǒ</sub><br>
+`00D4	Ô` <sub>Ô</sub><br>
+`1ED0	Ố` <sub>Ố</sub><br>
+`1ED8	Ộ` <sub>Ộ</sub><br>
+`1ED2	Ồ` <sub>Ồ</sub><br>
+`1ED4	Ổ` <sub>Ổ</sub><br>
+`1ED6	Ỗ` <sub>Ỗ</sub><br>
+`00D6	Ö` <sub>Ö</sub><br>
+`1ECC	Ọ` <sub>Ọ</sub><br>
+`0150	Ő` <sub>Ő</sub><br>
+`00D2	Ò` <sub>Ò</sub><br>
+`1ECE	Ỏ` <sub>Ỏ</sub><br>
+`01A0	Ơ` <sub>Ơ</sub><br>
+`1EDA	Ớ` <sub>Ớ</sub><br>
+`1EE2	Ợ` <sub>Ợ</sub><br>
+`1EDC	Ờ` <sub>Ờ</sub><br>
+`1EDE	Ở` <sub>Ở</sub><br>
+`1EE0	Ỡ` <sub>Ỡ</sub><br>
+`014C	Ō` <sub>Ō</sub><br>
+`019F	Ɵ` <sub>Ɵ</sub><br>
+`01EA	Ǫ` <sub>Ǫ</sub><br>
+`00D8	Ø` <sub>Ø</sub><br>
+`01FE	Ǿ` <sub>Ǿ</sub><br>
+`00D5	Õ` <sub>Õ</sub><br>
+`0152	Œ` <sub>Œ</sub><br>
+`0276	ɶ` <sub>ɶ</sub><br>
+`0050	P` <sub>P</sub><br>
+`00DE	Þ` <sub>Þ</sub><br>
+`0051	Q` <sub>Q</sub><br>
+`0052	R` <sub>R</sub><br>
+`0154	Ŕ` <sub>Ŕ</sub><br>
+`0158	Ř` <sub>Ř</sub><br>
+`0156	Ŗ` <sub>Ŗ</sub><br>
+`1E58	Ṙ` <sub>Ṙ</sub><br>
+`1E5A	Ṛ` <sub>Ṛ</sub><br>
+`1E5C	Ṝ` <sub>Ṝ</sub><br>
+`1E5E	Ṟ` <sub>Ṟ</sub><br>
+`0281	ʁ` <sub>ʁ</sub><br>
+`0053	S` <sub>S</sub><br>
+`015A	Ś` <sub>Ś</sub><br>
+`0160	Š` <sub>Š</sub><br>
+`015E	Ş` <sub>Ş</sub><br>
+`015C	Ŝ` <sub>Ŝ</sub><br>
+`0218	Ș` <sub>Ș</sub><br>
+`1E60	Ṡ` <sub>Ṡ</sub><br>
+`1E62	Ṣ` <sub>Ṣ</sub><br>
+`1E9E	ẞ` <sub>ẞ</sub><br>
+`0054	T` <sub>T</sub><br>
+`0164	Ť` <sub>Ť</sub><br>
+`0162	Ţ` <sub>Ţ</sub><br>
+`1E70	Ṱ` <sub>Ṱ</sub><br>
+`021A	Ț` <sub>Ț</sub><br>
+`1E6C	Ṭ` <sub>Ṭ</sub><br>
+`1E6E	Ṯ` <sub>Ṯ</sub><br>
+`0166	Ŧ` <sub>Ŧ</sub><br>
+`00DE	Þ` <sub>Þ</sub><br>
+`00D0	Ð` <sub>Ð</sub><br>
+`0055	U` <sub>U</sub><br>
+`00DA	Ú` <sub>Ú</sub><br>
+`016C	Ŭ` <sub>Ŭ</sub><br>
+`01D3	Ǔ` <sub>Ǔ</sub><br>
+`00DB	Û` <sub>Û</sub><br>
+`00DC	Ü` <sub>Ü</sub><br>
+`01D7	Ǘ` <sub>Ǘ</sub><br>
+`01D9	Ǚ` <sub>Ǚ</sub><br>
+`01DB	Ǜ` <sub>Ǜ</sub><br>
+`01D5	Ǖ` <sub>Ǖ</sub><br>
+`1EE4	Ụ` <sub>Ụ</sub><br>
+`0170	Ű` <sub>Ű</sub><br>
+`00D9	Ù` <sub>Ù</sub><br>
+`1EE6	Ủ` <sub>Ủ</sub><br>
+`01AF	Ư` <sub>Ư</sub><br>
+`1EE8	Ứ` <sub>Ứ</sub><br>
+`1EF0	Ự` <sub>Ự</sub><br>
+`1EEA	Ừ` <sub>Ừ</sub><br>
+`1EEC	Ử` <sub>Ử</sub><br>
+`1EEE	Ữ` <sub>Ữ</sub><br>
+`016A	Ū` <sub>Ū</sub><br>
+`0172	Ų` <sub>Ų</sub><br>
+`016E	Ů` <sub>Ů</sub><br>
+`0168	Ũ` <sub>Ũ</sub><br>
+`0056	V` <sub>V</sub><br>
+`0057	W` <sub>W</sub><br>
+`1E82	Ẃ` <sub>Ẃ</sub><br>
+`0174	Ŵ` <sub>Ŵ</sub><br>
+`1E84	Ẅ` <sub>Ẅ</sub><br>
+`1E80	Ẁ` <sub>Ẁ</sub><br>
+`02AC	ʬ` <sub>ʬ</sub><br>
+`0058	X` <sub>X</sub><br>
+`0059	Y` <sub>Y</sub><br>
+`00DD	Ý` <sub>Ý</sub><br>
+`0176	Ŷ` <sub>Ŷ</sub><br>
+`0178	Ÿ` <sub>Ÿ</sub><br>
+`1E8E	Ẏ` <sub>Ẏ</sub><br>
+`1EF4	Ỵ` <sub>Ỵ</sub><br>
+`1EF2	Ỳ` <sub>Ỳ</sub><br>
+`01B3	Ƴ` <sub>Ƴ</sub><br>
+`1EF6	Ỷ` <sub>Ỷ</sub><br>
+`0232	Ȳ` <sub>Ȳ</sub><br>
+`1EF8	Ỹ` <sub>Ỹ</sub><br>
+`005A	Z` <sub>Z</sub><br>
+`0179	Ź` <sub>Ź</sub><br>
+`017D	Ž` <sub>Ž</sub><br>
+`017B	Ż` <sub>Ż</sub><br>
+`1E92	Ẓ` <sub>Ẓ</sub><br>
+`1E94	Ẕ` <sub>Ẕ</sub><br>
+`01B5	Ƶ` <sub>Ƶ</sub><br>
 
 ## lowercase letters
-```
-0061	a
-00E1	á
-0103	ă
-1EAF	ắ
-1EB7	ặ
-1EB1	ằ
-1EB3	ẳ
-1EB5	ẵ
-01CE	ǎ
-00E2	â
-1EA5	ấ
-1EAD	ậ
-1EA7	ầ
-1EA9	ẩ
-1EAB	ẫ
-00E4	ä
-1EA1	ạ
-00E0	à
-1EA3	ả
-0101	ā
-0105	ą
-00E5	å
-01FB	ǻ
-00E3	ã
-00E6	æ
-01FD	ǽ
-0251	ɑ
-0250	ɐ
-0252	ɒ
-0062	b
-1E05	ḅ
-0253	ɓ
-00DF	ß
-0063	c
-0107	ć
-010D	č
-00E7	ç
-0109	ĉ
-0255	ɕ
-010B	ċ
-0064	d
-010F	ď
-1E13	ḓ
-1E0D	ḍ
-0257	ɗ
-1E0F	ḏ
-0111	đ
-0256	ɖ
-02A4	ʤ
-01F3	ǳ
-02A3	ʣ
-02A5	ʥ
-01C6	ǆ
-00F0	ð
-0065	e
-00E9	é
-0115	ĕ
-011B	ě
-00EA	ê
-1EBF	ế
-1EC7	ệ
-1EC1	ề
-1EC3	ể
-1EC5	ễ
-00EB	ë
-0117	ė
-1EB9	ẹ
-00E8	è
-1EBB	ẻ
-0113	ē
-0119	ę
-1EBD	ẽ
-0292	ʒ
-01EF	ǯ
-0293	ʓ
-0258	ɘ
-025C	ɜ
-025D	ɝ
-0259	ə
-025A	ɚ
-029A	ʚ
-025E	ɞ
-0066	f
-0192	ƒ
-017F	ſ
-02A9	ʩ
-FB01	ﬁ
-FB02	ﬂ
-0283	ʃ
-0286	ʆ
-0285	ʅ
-025F	ɟ
-0284	ʄ
-0067	g
-01F5	ǵ
-011F	ğ
-01E7	ǧ
-0123	ģ
-011D	ĝ
-0121	ġ
-0260	ɠ
-1E21	ḡ
-0261	ɡ
-0263	ɣ
-0068	h
-1E2B	ḫ
-0125	ĥ
-1E25	ḥ
-0266	ɦ
-1E96	ẖ
-0127	ħ
-0267	ɧ
-0265	ɥ
-02AE	ʮ
-02AF	ʯ
-0173	ų
-0069	i
-00ED	í
-012D	ĭ
-01D0	ǐ
-00EE	î
-00EF	ï
-1ECB	ị
-00EC	ì
-1EC9	ỉ
-012B	ī
-012F	į
-0268	ɨ
-0129	ĩ
-0269	ɩ
-0131	ı
-0133	ĳ
-025F	ɟ
-006A	j
-01F0	ǰ
-0135	ĵ
-029D	ʝ
-0237	ȷ
-025F	ɟ
-0284	ʄ
-006B	k
-0137	ķ
-1E33	ḳ
-0199	ƙ
-1E35	ḵ
-0138	ĸ
-029E	ʞ
-006C	l
-013A	ĺ
-019A	ƚ
-026C	ɬ
-013E	ľ
-013C	ļ
-1E3D	ḽ
-1E37	ḷ
-1E39	ḹ
-1E3B	ḻ
-0140	ŀ
-026B	ɫ
-026D	ɭ
-0142	ł
-019B	ƛ
-026E	ɮ
-01C9	ǉ
-02AA	ʪ
-02AB	ʫ
-006D	m
-1E3F	ḿ
-1E41	ṁ
-1E43	ṃ
-0271	ɱ
-026F	ɯ
-0270	ɰ
-006E	n
-0149	ŉ
-0144	ń
-0148	ň
-0146	ņ
-1E4B	ṋ
-1E45	ṅ
-1E47	ṇ
-01F9	ǹ
-0272	ɲ
-1E49	ṉ
-0273	ɳ
-00F1	ñ
-01CC	ǌ
-014B	ŋ
-014A	Ŋ
-006F	o
-00F3	ó
-014F	ŏ
-01D2	ǒ
-00F4	ô
-1ED1	ố
-1ED9	ộ
-1ED3	ồ
-1ED5	ổ
-1ED7	ỗ
-00F6	ö
-1ECD	ọ
-0151	ő
-00F2	ò
-1ECF	ỏ
-01A1	ơ
-1EDB	ớ
-1EE3	ợ
-1EDD	ờ
-1EDF	ở
-1EE1	ỡ
-014D	ō
-01EB	ǫ
-00F8	ø
-01FF	ǿ
-00F5	õ
-025B	ɛ
-0254	ɔ
-0275	ɵ
-0298	ʘ
-0153	œ
-0070	p
-0278	ɸ
-00FE	þ
-0071	q
-02A0	ʠ
-0072	r
-0155	ŕ
-0159	ř
-0157	ŗ
-1E59	ṙ
-1E5B	ṛ
-1E5D	ṝ
-027E	ɾ
-1E5F	ṟ
-027C	ɼ
-027D	ɽ
-027F	ɿ
-0279	ɹ
-027B	ɻ
-027A	ɺ
-0073	s
-015B	ś
-0161	š
-015F	ş
-015D	ŝ
-0219	ș
-1E61	ṡ
-1E63	ṣ
-0282	ʂ
-017F	ſ
-0283	ʃ
-0286	ʆ
-00DF	ß
-0285	ʅ
-0074	t
-0165	ť
-0163	ţ
-1E71	ṱ
-021B	ț
-1E97	ẗ
-1E6D	ṭ
-1E6F	ṯ
-0288	ʈ
-0167	ŧ
-02A8	ʨ
-02A7	ʧ
-00FE	þ
-00F0	ð
-02A6	ʦ
-0287	ʇ
-0075	u
-0289	ʉ
-00FA	ú
-016D	ŭ
-01D4	ǔ
-00FB	û
-00FC	ü
-01D8	ǘ
-01DA	ǚ
-01DC	ǜ
-01D6	ǖ
-1EE5	ụ
-0171	ű
-00F9	ù
-1EE7	ủ
-01B0	ư
-1EE9	ứ
-1EF1	ự
-1EEB	ừ
-1EED	ử
-1EEF	ữ
-016B	ū
-0173	ų
-016F	ů
-0169	ũ
-028A	ʊ
-0076	v
-028B	ʋ
-028C	ʌ
-0077	w
-1E83	ẃ
-0175	ŵ
-1E85	ẅ
-1E81	ẁ
-028D	ʍ
-0078	x
-0079	y
-00FD	ý
-0177	ŷ
-00FF	ÿ
-1E8F	ẏ
-1EF5	ỵ
-1EF3	ỳ
-01B4	ƴ
-1EF7	ỷ
-0233	ȳ
-1EF9	ỹ
-028E	ʎ
-007A	z
-017A	ź
-017E	ž
-0291	ʑ
-017C	ż
-1E93	ẓ
-1E95	ẕ
-0290	ʐ
-01B6	ƶ
-```
+`0061	a` <sub>a</sub><br>
+`00E1	á` <sub>á</sub><br>
+`0103	ă` <sub>ă</sub><br>
+`1EAF	ắ` <sub>ắ</sub><br>
+`1EB7	ặ` <sub>ặ</sub><br>
+`1EB1	ằ` <sub>ằ</sub><br>
+`1EB3	ẳ` <sub>ẳ</sub><br>
+`1EB5	ẵ` <sub>ẵ</sub><br>
+`01CE	ǎ` <sub>ǎ</sub><br>
+`00E2	â` <sub>â</sub><br>
+`1EA5	ấ` <sub>ấ</sub><br>
+`1EAD	ậ` <sub>ậ</sub><br>
+`1EA7	ầ` <sub>ầ</sub><br>
+`1EA9	ẩ` <sub>ẩ</sub><br>
+`1EAB	ẫ` <sub>ẫ</sub><br>
+`00E4	ä` <sub>ä</sub><br>
+`1EA1	ạ` <sub>ạ</sub><br>
+`00E0	à` <sub>à</sub><br>
+`1EA3	ả` <sub>ả</sub><br>
+`0101	ā` <sub>ā</sub><br>
+`0105	ą` <sub>ą</sub><br>
+`00E5	å` <sub>å</sub><br>
+`01FB	ǻ` <sub>ǻ</sub><br>
+`00E3	ã` <sub>ã</sub><br>
+`00E6	æ` <sub>æ</sub><br>
+`01FD	ǽ` <sub>ǽ</sub><br>
+`0251	ɑ` <sub>ɑ</sub><br>
+`0250	ɐ` <sub>ɐ</sub><br>
+`0252	ɒ` <sub>ɒ</sub><br>
+`0062	b` <sub>b</sub><br>
+`1E05	ḅ` <sub>ḅ</sub><br>
+`0253	ɓ` <sub>ɓ</sub><br>
+`00DF	ß` <sub>ß</sub><br>
+`0063	c` <sub>c</sub><br>
+`0107	ć` <sub>ć</sub><br>
+`010D	č` <sub>č</sub><br>
+`00E7	ç` <sub>ç</sub><br>
+`0109	ĉ` <sub>ĉ</sub><br>
+`0255	ɕ` <sub>ɕ</sub><br>
+`010B	ċ` <sub>ċ</sub><br>
+`0064	d` <sub>d</sub><br>
+`010F	ď` <sub>ď</sub><br>
+`1E13	ḓ` <sub>ḓ</sub><br>
+`1E0D	ḍ` <sub>ḍ</sub><br>
+`0257	ɗ` <sub>ɗ</sub><br>
+`1E0F	ḏ` <sub>ḏ</sub><br>
+`0111	đ` <sub>đ</sub><br>
+`0256	ɖ` <sub>ɖ</sub><br>
+`02A4	ʤ` <sub>ʤ</sub><br>
+`01F3	ǳ` <sub>ǳ</sub><br>
+`02A3	ʣ` <sub>ʣ</sub><br>
+`02A5	ʥ` <sub>ʥ</sub><br>
+`01C6	ǆ` <sub>ǆ</sub><br>
+`00F0	ð` <sub>ð</sub><br>
+`0065	e` <sub>e</sub><br>
+`00E9	é` <sub>é</sub><br>
+`0115	ĕ` <sub>ĕ</sub><br>
+`011B	ě` <sub>ě</sub><br>
+`00EA	ê` <sub>ê</sub><br>
+`1EBF	ế` <sub>ế</sub><br>
+`1EC7	ệ` <sub>ệ</sub><br>
+`1EC1	ề` <sub>ề</sub><br>
+`1EC3	ể` <sub>ể</sub><br>
+`1EC5	ễ` <sub>ễ</sub><br>
+`00EB	ë` <sub>ë</sub><br>
+`0117	ė` <sub>ė</sub><br>
+`1EB9	ẹ` <sub>ẹ</sub><br>
+`00E8	è` <sub>è</sub><br>
+`1EBB	ẻ` <sub>ẻ</sub><br>
+`0113	ē` <sub>ē</sub><br>
+`0119	ę` <sub>ę</sub><br>
+`1EBD	ẽ` <sub>ẽ</sub><br>
+`0292	ʒ` <sub>ʒ</sub><br>
+`01EF	ǯ` <sub>ǯ</sub><br>
+`0293	ʓ` <sub>ʓ</sub><br>
+`0258	ɘ` <sub>ɘ</sub><br>
+`025C	ɜ` <sub>ɜ</sub><br>
+`025D	ɝ` <sub>ɝ</sub><br>
+`0259	ə` <sub>ə</sub><br>
+`025A	ɚ` <sub>ɚ</sub><br>
+`029A	ʚ` <sub>ʚ</sub><br>
+`025E	ɞ` <sub>ɞ</sub><br>
+`0066	f` <sub>f</sub><br>
+`0192	ƒ` <sub>ƒ</sub><br>
+`017F	ſ` <sub>ſ</sub><br>
+`02A9	ʩ` <sub>ʩ</sub><br>
+`FB01	ﬁ` <sub>ﬁ</sub><br>
+`FB02	ﬂ` <sub>ﬂ</sub><br>
+`0283	ʃ` <sub>ʃ</sub><br>
+`0286	ʆ` <sub>ʆ</sub><br>
+`0285	ʅ` <sub>ʅ</sub><br>
+`025F	ɟ` <sub>ɟ</sub><br>
+`0284	ʄ` <sub>ʄ</sub><br>
+`0067	g` <sub>g</sub><br>
+`01F5	ǵ` <sub>ǵ</sub><br>
+`011F	ğ` <sub>ğ</sub><br>
+`01E7	ǧ` <sub>ǧ</sub><br>
+`0123	ģ` <sub>ģ</sub><br>
+`011D	ĝ` <sub>ĝ</sub><br>
+`0121	ġ` <sub>ġ</sub><br>
+`0260	ɠ` <sub>ɠ</sub><br>
+`1E21	ḡ` <sub>ḡ</sub><br>
+`0261	ɡ` <sub>ɡ</sub><br>
+`0263	ɣ` <sub>ɣ</sub><br>
+`0068	h` <sub>h</sub><br>
+`1E2B	ḫ` <sub>ḫ</sub><br>
+`0125	ĥ` <sub>ĥ</sub><br>
+`1E25	ḥ` <sub>ḥ</sub><br>
+`0266	ɦ` <sub>ɦ</sub><br>
+`1E96	ẖ` <sub>ẖ</sub><br>
+`0127	ħ` <sub>ħ</sub><br>
+`0267	ɧ` <sub>ɧ</sub><br>
+`0265	ɥ` <sub>ɥ</sub><br>
+`02AE	ʮ` <sub>ʮ</sub><br>
+`02AF	ʯ` <sub>ʯ</sub><br>
+`0173	ų` <sub>ų</sub><br>
+`0069	i` <sub>i</sub><br>
+`00ED	í` <sub>í</sub><br>
+`012D	ĭ` <sub>ĭ</sub><br>
+`01D0	ǐ` <sub>ǐ</sub><br>
+`00EE	î` <sub>î</sub><br>
+`00EF	ï` <sub>ï</sub><br>
+`1ECB	ị` <sub>ị</sub><br>
+`00EC	ì` <sub>ì</sub><br>
+`1EC9	ỉ` <sub>ỉ</sub><br>
+`012B	ī` <sub>ī</sub><br>
+`012F	į` <sub>į</sub><br>
+`0268	ɨ` <sub>ɨ</sub><br>
+`0129	ĩ` <sub>ĩ</sub><br>
+`0269	ɩ` <sub>ɩ</sub><br>
+`0131	ı` <sub>ı</sub><br>
+`0133	ĳ` <sub>ĳ</sub><br>
+`025F	ɟ` <sub>ɟ</sub><br>
+`006A	j` <sub>j</sub><br>
+`01F0	ǰ` <sub>ǰ</sub><br>
+`0135	ĵ` <sub>ĵ</sub><br>
+`029D	ʝ` <sub>ʝ</sub><br>
+`0237	ȷ` <sub>ȷ</sub><br>
+`025F	ɟ` <sub>ɟ</sub><br>
+`0284	ʄ` <sub>ʄ</sub><br>
+`006B	k` <sub>k</sub><br>
+`0137	ķ` <sub>ķ</sub><br>
+`1E33	ḳ` <sub>ḳ</sub><br>
+`0199	ƙ` <sub>ƙ</sub><br>
+`1E35	ḵ` <sub>ḵ</sub><br>
+`0138	ĸ` <sub>ĸ</sub><br>
+`029E	ʞ` <sub>ʞ</sub><br>
+`006C	l` <sub>l</sub><br>
+`013A	ĺ` <sub>ĺ</sub><br>
+`019A	ƚ` <sub>ƚ</sub><br>
+`026C	ɬ` <sub>ɬ</sub><br>
+`013E	ľ` <sub>ľ</sub><br>
+`013C	ļ` <sub>ļ</sub><br>
+`1E3D	ḽ` <sub>ḽ</sub><br>
+`1E37	ḷ` <sub>ḷ</sub><br>
+`1E39	ḹ` <sub>ḹ</sub><br>
+`1E3B	ḻ` <sub>ḻ</sub><br>
+`0140	ŀ` <sub>ŀ</sub><br>
+`026B	ɫ` <sub>ɫ</sub><br>
+`026D	ɭ` <sub>ɭ</sub><br>
+`0142	ł` <sub>ł</sub><br>
+`019B	ƛ` <sub>ƛ</sub><br>
+`026E	ɮ` <sub>ɮ</sub><br>
+`01C9	ǉ` <sub>ǉ</sub><br>
+`02AA	ʪ` <sub>ʪ</sub><br>
+`02AB	ʫ` <sub>ʫ</sub><br>
+`006D	m` <sub>m</sub><br>
+`1E3F	ḿ` <sub>ḿ</sub><br>
+`1E41	ṁ` <sub>ṁ</sub><br>
+`1E43	ṃ` <sub>ṃ</sub><br>
+`0271	ɱ` <sub>ɱ</sub><br>
+`026F	ɯ` <sub>ɯ</sub><br>
+`0270	ɰ` <sub>ɰ</sub><br>
+`006E	n` <sub>n</sub><br>
+`0149	ŉ` <sub>ŉ</sub><br>
+`0144	ń` <sub>ń</sub><br>
+`0148	ň` <sub>ň</sub><br>
+`0146	ņ` <sub>ņ</sub><br>
+`1E4B	ṋ` <sub>ṋ</sub><br>
+`1E45	ṅ` <sub>ṅ</sub><br>
+`1E47	ṇ` <sub>ṇ</sub><br>
+`01F9	ǹ` <sub>ǹ</sub><br>
+`0272	ɲ` <sub>ɲ</sub><br>
+`1E49	ṉ` <sub>ṉ</sub><br>
+`0273	ɳ` <sub>ɳ</sub><br>
+`00F1	ñ` <sub>ñ</sub><br>
+`01CC	ǌ` <sub>ǌ</sub><br>
+`014B	ŋ` <sub>ŋ</sub><br>
+`014A	Ŋ` <sub>Ŋ</sub><br>
+`006F	o` <sub>o</sub><br>
+`00F3	ó` <sub>ó</sub><br>
+`014F	ŏ` <sub>ŏ</sub><br>
+`01D2	ǒ` <sub>ǒ</sub><br>
+`00F4	ô` <sub>ô</sub><br>
+`1ED1	ố` <sub>ố</sub><br>
+`1ED9	ộ` <sub>ộ</sub><br>
+`1ED3	ồ` <sub>ồ</sub><br>
+`1ED5	ổ` <sub>ổ</sub><br>
+`1ED7	ỗ` <sub>ỗ</sub><br>
+`00F6	ö` <sub>ö</sub><br>
+`1ECD	ọ` <sub>ọ</sub><br>
+`0151	ő` <sub>ő</sub><br>
+`00F2	ò` <sub>ò</sub><br>
+`1ECF	ỏ` <sub>ỏ</sub><br>
+`01A1	ơ` <sub>ơ</sub><br>
+`1EDB	ớ` <sub>ớ</sub><br>
+`1EE3	ợ` <sub>ợ</sub><br>
+`1EDD	ờ` <sub>ờ</sub><br>
+`1EDF	ở` <sub>ở</sub><br>
+`1EE1	ỡ` <sub>ỡ</sub><br>
+`014D	ō` <sub>ō</sub><br>
+`01EB	ǫ` <sub>ǫ</sub><br>
+`00F8	ø` <sub>ø</sub><br>
+`01FF	ǿ` <sub>ǿ</sub><br>
+`00F5	õ` <sub>õ</sub><br>
+`025B	ɛ` <sub>ɛ</sub><br>
+`0254	ɔ` <sub>ɔ</sub><br>
+`0275	ɵ` <sub>ɵ</sub><br>
+`0298	ʘ` <sub>ʘ</sub><br>
+`0153	œ` <sub>œ</sub><br>
+`0070	p` <sub>p</sub><br>
+`0278	ɸ` <sub>ɸ</sub><br>
+`00FE	þ` <sub>þ</sub><br>
+`0071	q` <sub>q</sub><br>
+`02A0	ʠ` <sub>ʠ</sub><br>
+`0072	r` <sub>r</sub><br>
+`0155	ŕ` <sub>ŕ</sub><br>
+`0159	ř` <sub>ř</sub><br>
+`0157	ŗ` <sub>ŗ</sub><br>
+`1E59	ṙ` <sub>ṙ</sub><br>
+`1E5B	ṛ` <sub>ṛ</sub><br>
+`1E5D	ṝ` <sub>ṝ</sub><br>
+`027E	ɾ` <sub>ɾ</sub><br>
+`1E5F	ṟ` <sub>ṟ</sub><br>
+`027C	ɼ` <sub>ɼ</sub><br>
+`027D	ɽ` <sub>ɽ</sub><br>
+`027F	ɿ` <sub>ɿ</sub><br>
+`0279	ɹ` <sub>ɹ</sub><br>
+`027B	ɻ` <sub>ɻ</sub><br>
+`027A	ɺ` <sub>ɺ</sub><br>
+`0073	s` <sub>s</sub><br>
+`015B	ś` <sub>ś</sub><br>
+`0161	š` <sub>š</sub><br>
+`015F	ş` <sub>ş</sub><br>
+`015D	ŝ` <sub>ŝ</sub><br>
+`0219	ș` <sub>ș</sub><br>
+`1E61	ṡ` <sub>ṡ</sub><br>
+`1E63	ṣ` <sub>ṣ</sub><br>
+`0282	ʂ` <sub>ʂ</sub><br>
+`017F	ſ` <sub>ſ</sub><br>
+`0283	ʃ` <sub>ʃ</sub><br>
+`0286	ʆ` <sub>ʆ</sub><br>
+`00DF	ß` <sub>ß</sub><br>
+`0285	ʅ` <sub>ʅ</sub><br>
+`0074	t` <sub>t</sub><br>
+`0165	ť` <sub>ť</sub><br>
+`0163	ţ` <sub>ţ</sub><br>
+`1E71	ṱ` <sub>ṱ</sub><br>
+`021B	ț` <sub>ț</sub><br>
+`1E97	ẗ` <sub>ẗ</sub><br>
+`1E6D	ṭ` <sub>ṭ</sub><br>
+`1E6F	ṯ` <sub>ṯ</sub><br>
+`0288	ʈ` <sub>ʈ</sub><br>
+`0167	ŧ` <sub>ŧ</sub><br>
+`02A8	ʨ` <sub>ʨ</sub><br>
+`02A7	ʧ` <sub>ʧ</sub><br>
+`00FE	þ` <sub>þ</sub><br>
+`00F0	ð` <sub>ð</sub><br>
+`02A6	ʦ` <sub>ʦ</sub><br>
+`0287	ʇ` <sub>ʇ</sub><br>
+`0075	u` <sub>u</sub><br>
+`0289	ʉ` <sub>ʉ</sub><br>
+`00FA	ú` <sub>ú</sub><br>
+`016D	ŭ` <sub>ŭ</sub><br>
+`01D4	ǔ` <sub>ǔ</sub><br>
+`00FB	û` <sub>û</sub><br>
+`00FC	ü` <sub>ü</sub><br>
+`01D8	ǘ` <sub>ǘ</sub><br>
+`01DA	ǚ` <sub>ǚ</sub><br>
+`01DC	ǜ` <sub>ǜ</sub><br>
+`01D6	ǖ` <sub>ǖ</sub><br>
+`1EE5	ụ` <sub>ụ</sub><br>
+`0171	ű` <sub>ű</sub><br>
+`00F9	ù` <sub>ù</sub><br>
+`1EE7	ủ` <sub>ủ</sub><br>
+`01B0	ư` <sub>ư</sub><br>
+`1EE9	ứ` <sub>ứ</sub><br>
+`1EF1	ự` <sub>ự</sub><br>
+`1EEB	ừ` <sub>ừ</sub><br>
+`1EED	ử` <sub>ử</sub><br>
+`1EEF	ữ` <sub>ữ</sub><br>
+`016B	ū` <sub>ū</sub><br>
+`0173	ų` <sub>ų</sub><br>
+`016F	ů` <sub>ů</sub><br>
+`0169	ũ` <sub>ũ</sub><br>
+`028A	ʊ` <sub>ʊ</sub><br>
+`0076	v` <sub>v</sub><br>
+`028B	ʋ` <sub>ʋ</sub><br>
+`028C	ʌ` <sub>ʌ</sub><br>
+`0077	w` <sub>w</sub><br>
+`1E83	ẃ` <sub>ẃ</sub><br>
+`0175	ŵ` <sub>ŵ</sub><br>
+`1E85	ẅ` <sub>ẅ</sub><br>
+`1E81	ẁ` <sub>ẁ</sub><br>
+`028D	ʍ` <sub>ʍ</sub><br>
+`0078	x` <sub>x</sub><br>
+`0079	y` <sub>y</sub><br>
+`00FD	ý` <sub>ý</sub><br>
+`0177	ŷ` <sub>ŷ</sub><br>
+`00FF	ÿ` <sub>ÿ</sub><br>
+`1E8F	ẏ` <sub>ẏ</sub><br>
+`1EF5	ỵ` <sub>ỵ</sub><br>
+`1EF3	ỳ` <sub>ỳ</sub><br>
+`01B4	ƴ` <sub>ƴ</sub><br>
+`1EF7	ỷ` <sub>ỷ</sub><br>
+`0233	ȳ` <sub>ȳ</sub><br>
+`1EF9	ỹ` <sub>ỹ</sub><br>
+`028E	ʎ` <sub>ʎ</sub><br>
+`007A	z` <sub>z</sub><br>
+`017A	ź` <sub>ź</sub><br>
+`017E	ž` <sub>ž</sub><br>
+`0291	ʑ` <sub>ʑ</sub><br>
+`017C	ż` <sub>ż</sub><br>
+`1E93	ẓ` <sub>ẓ</sub><br>
+`1E95	ẕ` <sub>ẕ</sub><br>
+`0290	ʐ` <sub>ʐ</sub><br>
+`01B6	ƶ` <sub>ƶ</sub><br>
 
 ## MISC.
-```
-01C2	ǂ
-02AD	ʭ
-0294	ʔ
-02A1	ʡ
-0296	ʖ
-01C1	ǁ
-0295	ʕ
-01C3	ǃ
-02A2	ʢ
-```
+`01C2	ǂ` <sub>ǂ</sub><br>
+`02AD	ʭ` <sub>ʭ</sub><br>
+`0294	ʔ` <sub>ʔ</sub><br>
+`02A1	ʡ` <sub>ʡ</sub><br>
+`0296	ʖ` <sub>ʖ</sub><br>
+`01C1	ǁ` <sub>ǁ</sub><br>
+`0295	ʕ` <sub>ʕ</sub><br>
+`01C3	ǃ` <sub>ǃ</sub><br>
+`02A2	ʢ` <sub>ʢ</sub><br>
