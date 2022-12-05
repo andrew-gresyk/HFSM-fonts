@@ -2,6 +2,8 @@
 
 ---
 
+![HFSM2](assets/logos/hfsm-mono-large.png)
+
 # Monospaced bitmap font with Unicode support for **[HFSM2](https://hfsm.dev)** and **[FFSM2](https://flat.hfsm.dev)** libraries
 
 ## Specs
@@ -30,11 +32,13 @@
 ## Features
 
 ### Basic Latin:
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}</sub><br>
-<sub>abcdefghijklmnopqrstuvwxyz ,. \\|/ [ 1234567890-=]</sub>
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ;:<?></sub><br>
+<sub>abcdefghijklmnopqrstuvwxyz,.\\|/</sub><br>
+<sub>[ 1234567890-=] {~!@#$%^&*()_+}</sub><br>
 ```
-ABCDEFGHIJKLMNOPQRSTUVWXYZ ;: <?> {~!@#$%^&*()_+}
-abcdefghijklmnopqrstuvwxyz ,. \|/ [ 1234567890-=]
+ABCDEFGHIJKLMNOPQRSTUVWXYZ;:<?>
+abcdefghijklmnopqrstuvwxyz,.\|/
+[ 1234567890-=] {~!@#$%^&*()_+}
 ```
 
 ### Latin with Diacritics:
@@ -54,11 +58,13 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 ```
 
 ### Cyrillic:
-<sub>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}</sub><br>
-<sub>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]</sub>
+<sub>АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ</sub><br>
+<sub>абвгґдеєжзиіїйклмнопрстуфхцчшщьюя</sub><br>
+<sub>['1234567890-=] {₴!"№;%:?*()_+}</sub>
 ```
-АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ {₴!"№;%:?*()_+}
-абвгґдеєжзиіїйклмнопрстуфхцчшщьюя ['1234567890-=]
+АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ
+абвгґдеєжзиіїйклмнопрстуфхцчшщьюя
+['1234567890-=] {₴!"№;%:?*()_+}
 ```
 
 ### Greek:
@@ -75,11 +81,12 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 <sub>Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª</sub><br>
 <sub>Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ</sub><br>
 <br>
-<sub>X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾</sub><br>
-<sub>Xⁱ Xⁿ Xº Xª</sub><br>
+<sub>X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹</sub><br>
+<sub>X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª</sub><br>
 <br>
-<sub>X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎</sub><br>
-<sub>Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ</sub><br>
+<sub>X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉</sub><br>
+<sub>X₊ X₋ X₌ X₍ X₎ Xₑ Xₔ</sub><br>
+<sub>Xₐ Xₒ Xₓ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ</sub><br>
 <br>
 <sub>Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻</sub>
 ```
@@ -88,19 +95,22 @@ Pijamalı hasta yağız şoföre çabucak güvendi.
 Xⁱⁿ X⁽⁰¹⁺²³⁴⁻⁵⁶⁼⁷⁸⁹⁾ 1º 2ª
 Xₑₔ X₍₀₁₊₂₃₄₋₅₆₌₇₈₉₎ Xₐₒₓₕₖₗₘₙₚₛₜ
 
-X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹ X⁺ X⁻ X⁼ X⁽ X⁾
-Xⁱ Xⁿ Xº Xª
+X⁰ X¹ X² X³ X⁴ X⁵ X⁶ X⁷ X⁸ X⁹
+X⁺ X⁻ X⁼ X⁽ X⁾ Xⁱ Xⁿ Xº Xª
 
-X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉ X₊ X₋ X₌ X₍ X₎
-Xₐ Xₑ Xₒ Xₓ Xₔ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ	
+X₀ X₁ X₂ X₃ X₄ X₅ X₆ X₇ X₈ X₉
+X₊ X₋ X₌ X₍ X₎ Xₑ Xₔ
+Xₐ Xₒ Xₓ Xₕ Xₖ Xₗ Xₘ Xₙ Xₚ Xₛ Xₜ	
 
 Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻
 ```
 
 ### Fractions:
-<sub>⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sub>
+<sub>⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘</sub><br>
+<sub>⁄ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒</sub>
 ```
-⁄ ⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
+⅟ ½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘
+⁄ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒
 ```
 
 ### Arrows, math symbols, dingbats, etc.
@@ -109,16 +119,16 @@ Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻
 ```
 ┌ TopLevelState
 └ TopLevelRegion
-    ╟ OrthogonalRegion
-    ║ ╟ OrthogonalState1
-    ║ ╙ OrthogonalState2
-    ╟─┬ PeerState1
-    ║ └ PeerState2
-    ╟ CompositeRegion
-    ║ ├ CompositeState1
-    ║ └ CompositeState2
-    ╙─╥ OrthogonalPeerState1
-      ╙ OrthogonalPeerState2
+  ╟ OrthogonalRegion
+  ║ ╟ OrthogonalState1
+  ║ ╙ OrthogonalState2
+  ╟─┬ PeerState1
+  ║ └ PeerState2
+  ╟ CompositeRegion
+  ║ ├ CompositeState1
+  ║ └ CompositeState2
+  ╙─╥ OrthogonalPeerState1
+    ╙ OrthogonalPeerState2
 ```
 
 ### **[Braille](https://github.com/romeovs/creep#braille-and-drawille)** (from **[creep](https://github.com/romeovs/creep)**)
