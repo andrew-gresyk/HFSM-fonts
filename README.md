@@ -153,4 +153,4 @@ Hexamminecobalt chloride: [Co(NH₃)₆]³⁺Cl³⁻
 ## Get In Touch
 
 - Twitter: **[@andrew_gresyk](https://www.twitter.com/andrew_gresyk)**
-- Discord: **[HFSM.dev](https://discord.gg/v4t3tzh)**
+- Discord: **[HFSM.dev](https://discord.gg/csSZRxrPK3)**
